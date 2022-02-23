@@ -1,0 +1,70 @@
+.footer{
+    padding: 10px;
+    text-align: center;
+    background-color: #FBF46D;
+    margin-top: 30px;
+}
+.header{
+    font-family: arial;
+    text-align: center;
+    background: rgb(67, 124, 199);
+    color: violet;
+    border: 1px solid rgb(167, 131, 14);
+}
+.header h1{
+    font-size: 40px;
+}
+.header p{
+    font-size: 20px;
+}
+marquee{
+    font-size: 30px;
+}
+.topnav{
+    width: 100%;
+    height: 30px;
+    overflow: hidden;
+    background: #A3E4DB;
+}
+.topnav a{
+    float: left;
+    display: block;
+    margin: 0px 10px;
+    text-decoration: none;
+    position: relative;
+    padding-top: 5px;
+}
+
+.topnav a:hover {
+color: tomato;
+}
+img{
+    width: 100%;
+    height:400px;
+}
+
+.doisong{
+    padding: 10px;
+}
+.doisong h1{
+    text-align: center;
+    color: #bd7626;
+}
+.doisong img{
+    display: inline-block;
+    position: relative;
+    transform: translate(-50%,0);
+    left: 50%;
+    width: 30%;
+    height: 200px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+.cuoi {
+    border: 1px solid greenyellow;
+    background-color: orange;
+    width: 70%;
+    height: 60px;
+    margin: 0 auto;
+    font-variant: small-caps;
+}

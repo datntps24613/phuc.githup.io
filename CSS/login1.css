@@ -1,0 +1,95 @@
+
+
+.login{
+    width: 300px;
+    height: 350px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    margin: 0 auto;
+    text-align: center;
+}
+.login h2{
+    display: inline-block;
+    color: grey;
+}
+.login input{
+    width: 200px;
+    height:40px;
+    border-radius: 5px;
+    border: 1 solid rgb(190, 183, 183);
+    padding-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+.check input{
+    width: 10px;
+    height: 10px;
+}
+.login button{
+    width: 220px;
+    height: 40px;
+    background-color: #167bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.login p{
+    display: inline-block;
+    float: left;
+    padding-left: 40px;
+    margin: 0px;
+}
+.check{
+    float: left;
+    padding-left: 40px;
+}
+.login a{
+    float: right;
+    padding-right: 40px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.footer{
+    padding: 10px;
+    text-align: center;
+    background-color: #FBF46D;
+    margin-top: 30px;
+}
+.header{
+    font-family: arial;
+    text-align: center;
+    background: rgb(67, 124, 199);
+    color: violet;
+    border: 1px solid rgb(167, 131, 14);
+}
+.header h1{
+    font-size: 40px;
+}
+.header p{
+    font-size: 20px;
+}
+marquee{
+    font-size: 30px;
+}
+.topnav{
+    width: 100%;
+    height: 30px;
+    overflow: hidden;
+    background: #A3E4DB;
+}
+.topnav a{
+    float: left;
+    display: block;
+    margin: 0px 10px;
+    text-decoration: none;
+    position: relative;
+    padding-top: 5px;
+}
+
+.topnav a:hover {
+color: tomato;
+}
+img{
+    width: 100%;
+    height:400px;
+}

@@ -1,0 +1,73 @@
+.header{
+    font-family: arial;
+    text-align: center;
+    background: white;
+    color: violet;
+    border: 1px solid rgb(167, 131, 14);
+}
+.header h1{
+    font-size: 40px;
+}
+.header p{
+    font-size: 20px;
+}
+marquee{
+    font-size: 30px;
+}
+.topnav{
+    width: 100%;
+    height: 30px;
+    overflow: hidden;
+    background: #A3E4DB;
+}
+.topnav a{
+    float: left;
+    display: block;
+    margin: 0px 10px;
+    text-decoration: none;
+    position: relative;
+    padding-top: 5px;
+}
+
+.topnav a:hover {
+color: tomato;
+}
+.footer{
+    padding: 10px;
+    text-align: center;
+    background-color: #FBF46D;
+    margin-top: 30px;
+}
+.header img{
+    width: 100%;
+    height: 400px;
+}
+.vande img{
+    width: 30%;
+    height: 300px;
+    padding:0px 300px;
+}
+.giaiphap img{
+    width: 30%;
+    height: 300px;
+    padding:0px 300px;
+}
+.vande h2{
+    text-align: center;
+    color: aquamarine;
+}
+.vande h1{
+    text-align: center;
+}
+.giaiphap h2{
+    text-align: center;
+    color: aquamarine;
+}
+video{
+    padding-left: 250px;
+    
+}
+
+
+
+
